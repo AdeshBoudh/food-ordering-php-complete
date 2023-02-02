@@ -137,6 +137,9 @@ input {
 .footer{
     background-color: #ff4757;
     color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .footer_name{

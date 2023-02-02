@@ -1,5 +1,6 @@
-<!-- Socials -->
-<section class="social">
+<!-- Footer -->
+<section class="footer">
+    <div class="social">
         <div class="container text-center">
             <ul>
                 <li>
@@ -13,14 +14,10 @@
                 </li>
             </ul>
         </div>
-    </section>
-
-    <!-- Footer -->
-    <section class="footer">
-        <div class="container text-center">
-            <p>All rights reserved. Designed By <a href="#">Adesh Boudh</a></p>
-        </div>
-    </section>
-
+    </div>
+    <div class="container text-center">
+        <p>All rights reserved. Designed By <a href="#">Adesh Boudh</a></p>
+    </div>
+</section>
 </body>
 </html>

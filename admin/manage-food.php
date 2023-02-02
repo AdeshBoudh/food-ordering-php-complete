@@ -3,6 +3,7 @@
     <div class="main-content">
         <div class="wrapper">
         <h2>Manage Food</h2>
+        <br><br>
         <?php
             if(isset($_SESSION['add']))
             {
